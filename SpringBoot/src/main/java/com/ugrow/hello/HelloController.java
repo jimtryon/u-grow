@@ -1,4 +1,4 @@
-package com.ugrow.SpringBoot;
+package com.ugrow.hello;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
